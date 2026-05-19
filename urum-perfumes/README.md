@@ -1,8 +1,8 @@
-# URUM PERFUMES
+# LUX ESENCIAS
 
 Tienda online (frontend) de lociones y perfumes de alta gama. Diseño premium, elegante y 100% responsive — pensada para publicar como **sitio estático** (ideal para GitHub Pages, Netlify, Vercel o cualquier hosting).
 
-![URUM Perfumes](https://placehold.co/1200x600/0B0B0B/C9A24B?text=URUM+PERFUMES)
+![LUX ESENCIAs](https://placehold.co/1200x600/0B0B0B/C9A24B?text=URUM+PERFUMES)
 
 ---
 
@@ -101,7 +101,7 @@ Abre `app.js` y modifica el array `productos`. Cada producto tiene esta forma:
    ```bash
    git init
    git add .
-   git commit -m "Initial commit - URUM Perfumes"
+   git commit -m "Initial commit - LUX ESENCIAs"
    git branch -M main
    git remote add origin https://github.com/TU-USUARIO/urum-perfumes.git
    git push -u origin main

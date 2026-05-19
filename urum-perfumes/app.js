@@ -1,5 +1,5 @@
 /* ============================================================
-   URUM PERFUMES — app.js
+   LUX ESENCIAS — app.js
    Catálogo dinámico + carrito (solo simulación visual)
    ============================================================ */
 

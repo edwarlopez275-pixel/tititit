@@ -1,11 +1,11 @@
-# URUM PERFUMES — PRD
+# LUX ESENCIAS — PRD
 
 ## Problem Statement
 E-commerce frontend estático (HTML + Tailwind CDN + JS vanilla) para venta de lociones y perfumes. Catálogo dinámico desde array JSON, carrito simulado, listo para publicar en GitHub Pages.
 
 ## User Choices
 - Stack: HTML + Tailwind CDN + JS vanilla
-- Marca: URUM PERFUMES
+- Marca: LUX ESENCIAS
 - Imágenes: placeholder genéricas
 - Carrito: solo simulación visual
 - Extras: README.md + .gitignore + LICENSE (MIT)
